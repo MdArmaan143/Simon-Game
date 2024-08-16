@@ -16,7 +16,7 @@ The Simon Game is a classic memory game where players need to replicate a sequen
 1. **Clone the Repository:**
 
     ```bash
-    git clone 
+    git clone https://github.com/teslaa143/Simon-Game.git
     ```
 
 2. **Navigate to the Project Directory:**
