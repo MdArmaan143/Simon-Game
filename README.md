@@ -1,6 +1,9 @@
 
 # Simon Game
 
+# Game Link
+- [https://teslaa143.github.io/Simon-Game/](https://teslaa143.github.io/Simon-Game/)
+
 ## Overview
 
 The Simon Game is a classic memory game where players need to replicate a sequence of colors played by the computer. This project is implemented using HTML, CSS, and JavaScript. The game features an engaging user interface and sound effects to enhance the player experience.
