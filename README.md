@@ -1,7 +1,7 @@
 
 # Simon Game
 
-# Game Link
+## Game Link
 - [https://teslaa143.github.io/Simon-Game/](https://teslaa143.github.io/Simon-Game/)
 
 ## Overview
