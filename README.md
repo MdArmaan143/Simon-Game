@@ -2,7 +2,7 @@
 # Simon Game
 
 ## Game Link
-- [https://teslaa143.github.io/Simon-Game/](https://teslaa143.github.io/Simon-Game/)
+- [https://simon-game-go.netlify.app/](https://simon-game-go.netlify.app/)
 
 ## Overview
 
@@ -18,15 +18,14 @@ The Simon Game is a classic memory game where players need to replicate a sequen
 
 1. **Clone the Repository:**
 
-    ```bash
     git clone https://github.com/teslaa143/Simon-Game.git
-    ```
+    
 
 2. **Navigate to the Project Directory:**
 
-    ```bash
+   
     cd simon-game
-    ```
+
 
 3. **Open `index.html` in Your Web Browser:**
 
